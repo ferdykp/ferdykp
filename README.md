@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdykp&hide_border=true" alt="Streak stats" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ferdykp&hide_border=true](https://streak-stats.demolab.com/?user=ferdykp&hide_border=true)" alt="Streak stats" />
 </p>
 
 ---
