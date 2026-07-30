@@ -75,17 +75,12 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=ferdykp&hide_border=true](https://streak-stats.demolab.com/?user=ferdykp&hide_border=true)" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=ferdykp&hide_border=true" alt="Streak stats" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
-
-<!--
-Ganti dengan repo pinned kamu. Format kartu otomatis via github-readme-stats:
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdykp&repo=NAMA-REPO&theme=default&hide_border=true" />
--->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdykp&repo=pos-saas&hide_border=true" />
