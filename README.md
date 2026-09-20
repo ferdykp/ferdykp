@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ferdykp&show_icons=true&theme=default&hide_border=true" alt="Ferdy's GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ferdykp&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ferdykp&layout=compact&hide_border=true&cache_bust=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
