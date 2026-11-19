@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdy Kurnia Panggabean</h1>
-<h3 align="center">Full Stack Software Engineer | Laravel & DevOps</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ferdy-kurnia-panggabean-4146631b8/" target="_blank">
